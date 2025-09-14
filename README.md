@@ -14,7 +14,7 @@ I have made far too many useless projects. Below is a small sample.
 
     -   Great for making a bunch of monitors flash the same color!
 
-    -   (Synchronize by putting the 4-character code [at the bottom-right of the screen] into the URL search params); Ex: (https://ntoutges.github.io?ABCD)
+    -   (Synchronize by putting the 4-character code [at the bottom-right of the screen] into the URL search params); Ex: [https://ntoutges.github.io/rcolor?ABCD](https://ntoutges.github.io/rcolor?ABCD)
 
 ## Mathematics
 
